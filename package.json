@@ -2,7 +2,7 @@
   "name": "gotapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://romanarabchik.github.io/react-gotApp/",
+  "homepage": "https://romanarabchik.github.io/react-gotApp",
   "dependencies": {
     "bootstrap": "^4.4.1",
     "eslint-plugin-babel": "^5.3.1",
