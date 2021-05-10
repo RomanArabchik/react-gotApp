@@ -31,13 +31,8 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ihinstone/react-gotapp.git"
+    "type": "git"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ihinstone/react-gotapp/issues"
-  },
-  "homepage": "https://github.com/ihinstone/react-gotapp#readme"
+  "license": "ISC"
 }
