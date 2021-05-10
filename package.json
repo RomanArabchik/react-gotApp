@@ -4,10 +4,12 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.4.1",
+    "eslint-plugin-babel": "^5.3.1",
     "node-sass": "^4.13.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "2.1.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^2.1.3",
     "reactstrap": "^7.1.0",
     "styled-components": "^4.4.1"
   },
@@ -25,5 +27,17 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihinstone/react-gotapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ihinstone/react-gotapp/issues"
+  },
+  "homepage": "https://github.com/ihinstone/react-gotapp#readme"
 }
